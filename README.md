@@ -12,5 +12,5 @@ To deploy it:
     cf push welcome
 
 It should look like this:
-
+ 
 ![Welcome to Cloud Foundry](screenshot.png)
